@@ -1,7 +1,7 @@
 English:
 - Hi, I'm Mr.King.
 - I am a student from China.
-- You contact me by emailing 3359521238@qq.com.
+- You can contact me by emailing 3359521238@qq.com.
 
 简体中文:
 - 你好，我是Mr.King
